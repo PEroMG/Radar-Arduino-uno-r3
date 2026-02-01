@@ -2,6 +2,7 @@ O arquivo do arduino controla o arduino em si, enquanto o codigo em python gera 
 
 pinos 
 servo motor SG90
+
 |     5V | Vcc    |
 |    GND | Ground |
 | pin 10 | PWM    |
